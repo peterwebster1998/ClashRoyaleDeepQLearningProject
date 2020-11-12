@@ -11,4 +11,4 @@ The python model is not yet polished so also requires fixing.
 
 The .csv file contains the stats for the 8 troop cards I have decided to incorperate, when this is working there is no reason that more cards could not be implemented.
 
-I have uploaded these files to demonstrate my coding ability to potential employers, although this is currently unfinished I believe it is a testament to the capability and problem solving skills I posess
+I have uploaded these files to demonstrate my coding ability to potential employers, although this is currently unfinished I believe it is a testament to the capability and problem solving skills I posess as well as my ability to test unfinished projects to find errors.
